@@ -1,7 +1,7 @@
-git add .        dodaje wszystkie pliki do indeksu
-git add notatki.txt
-git status       wyświetla status
-git diff         pokazuje zmiany w plikach pomiędzy indeksem a folderem roboczym
-git diff HEAD    pokazuje zmiany pomiędzy folderem roboczym a ostatnim committem
-git commit -m "tytuł"
-git push
+git add .                    dodaje wszystkie pliki do indeksu
+git add notatki.txt          dodaje plik notatki.txt do indeksu
+git status                   wyświetla listę zmienionych plików
+git diff                     pokazuje zmiany w plikach pomiędzy indeksem a folderem roboczym
+git diff HEAD                pokazuje zmiany pomiędzy folderem roboczym a ostatnim committem
+git commit -m "tytuł"        zapisuje zmiany z indeksu
+git push                     wysyła na github
