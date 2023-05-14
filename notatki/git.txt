@@ -5,3 +5,6 @@ git diff                     pokazuje zmiany w plikach pomiędzy indeksem a fold
 git diff HEAD                pokazuje zmiany pomiędzy folderem roboczym a ostatnim committem
 git commit -m "tytuł"        zapisuje zmiany z indeksu
 git push                     wysyła na github
+git clone (adres url)        klonuje
+git remote -v                pokazuje link do zdalnego katalogu
+git log                      wyświetla historię
