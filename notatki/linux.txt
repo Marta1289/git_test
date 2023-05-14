@@ -1,0 +1,3 @@
+mkdir repos                  dodaje repozytorium
+touch linux.txt              dodaje plik
+cd                           change directory
